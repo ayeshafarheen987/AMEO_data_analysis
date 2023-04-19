@@ -15,7 +15,7 @@ The independent variables are both continuous and categorical in nature.
 
 The dataset contains a unique identifier for each candidate.
 
-ID : A unique ID to identify a candidate
+- ID : A unique ID to identify a candidate
 
 Salary: Annual CTC oﬀered to the candidate (in INR)
 
